@@ -46,6 +46,7 @@ public class CallByTest {
     print.disp(kim);
     System.out.println(kim.hashCode());
     System.out.println("============");
+    System.out.println("STARAT"); 
     int a=3;
     int b=a;
    
