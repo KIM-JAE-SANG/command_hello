@@ -49,7 +49,7 @@ public class CallByTest {
     System.out.println("STARAT"); 
     int a=3;
     int b=a;
-   
+    System.out.println("END");   
 
   }
 
