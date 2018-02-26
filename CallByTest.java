@@ -46,6 +46,7 @@ public class CallByTest {
     print.disp(kim);
     System.out.println(kim.hashCode());
     System.out.println("============");
+    System.out.println("start");    
     int a=3;
     int b=a;
     System.out.println("END");   
